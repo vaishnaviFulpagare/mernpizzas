@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4",
+    "react-bootstrap": "^2.10.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "foodorderapp",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
